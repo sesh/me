@@ -24,8 +24,17 @@
         }
 
         a {
-            color: #0074D9;
+            background-color: transparent; /* Remove the gray background color from active links in IE 10. */
+            color: #327CCB;
+            font-weight: bold;
             text-decoration: none;
+            -webkit-transition: color .2s;
+            transition: color .2s;
+        }
+
+        a:hover, a:active {
+            color: #73B3EA;
+            outline: 0;
         }
 
         .container {
