@@ -1,6 +1,6 @@
 # Brenton Cleeland
 
-I'm a Python & Django developer in Melbourne Australia.
+Web developer in Melbourne, Australia.
 
 Currently I'm a Delivery Director at [Common Code][cc].
 
@@ -11,11 +11,14 @@ Currently I'm a Delivery Director at [Common Code][cc].
 
 ---
 
+### A little about me
 
 I have worked with Python, Javascript and Django for 10 years, and lead Agile delivery teams working with these technologies since 2014.
 I have a passion for open source and creating web applications.
 
 I love taking photos, riding my bike to work, making (and drinking) cocktails and coffee. I don't tweet much, but I do post brief updates on my own [microblog called Briefly][briefly].
+
+I have a passion for teaching people to code: I've helped run free training courses (MelbDjango School), volunteered at DjangoGirls events (in Melbourne and Washington D.C.) and taught Python/Django in corporate environments.
 
 🇺🇸 Check out our photos from the USA: [https://bonton.site](https://bonton.site)
 
