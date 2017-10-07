@@ -2,7 +2,7 @@
 
 Web developer in Melbourne, Australia.
 
-Currently I'm a Delivery Director at [Common Code][cc].
+Previously I was a Delivery Director at [Common Code][cc].
 
 - Follow me on [Twitter][twitter] or [Instagram][instagram]
 - See my runs on [Smashrun][smashrun]
