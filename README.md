@@ -7,7 +7,8 @@ Currently I'm a Delivery Director at [Common Code][cc].
 - Follow me on [Twitter][twitter] or [Instagram][instagram]
 - See my runs on [Smashrun][smashrun]
 - Everything is on [Github][github]
-
+- You can message me securely with [Keybase][keybase]
+- My email is just my first name @ this domain
 
 ---
 
@@ -59,3 +60,4 @@ And I like building tiny web apps, here a few recent ones:
   [hn500]: https://hn500.brntn.me
   [tdf-highlights]: http://tdf-highlights-au.surge.sh/
   [running-tables]: http://runningtables.info
+  [keybase]: https://keybase.io/sesh
