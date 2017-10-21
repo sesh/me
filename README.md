@@ -24,6 +24,12 @@ I have a passion for teaching people to code: I've helped run free training cour
 🇺🇸 Check out our photos from the USA: [https://bonton.site](https://bonton.site)
 
 
+### Recent Posts
+
+- [Learning Django URL Patterns by Example](https://briefly.brntn.me/2017/10/15/50)
+- [So that's it!](https://twitter.com/sesh/status/916458668522070017)
+
+
 ### Projects
 
 I've worked on some fun open source projects:
