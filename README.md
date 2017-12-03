@@ -1,6 +1,6 @@
 # Brenton Cleeland
 
-Web developer in Melbourne, Australia.
+Consultant at [ThoughtWorks][tw] in Melbourne, Australia.
 
 Previously I was a Delivery Director at [Common Code][cc].
 
@@ -67,3 +67,4 @@ And I like building tiny web apps, here a few recent ones:
   [tdf-highlights]: http://tdf-highlights-au.surge.sh/
   [running-tables]: http://runningtables.info
   [keybase]: https://keybase.io/sesh
+  [tw]: https://thoughtworks.com
