@@ -26,6 +26,7 @@ I have a passion for teaching people to code: I've helped run free training cour
 
 ### Recent Posts
 
+- [Django URLs 2.0](https://gist.github.com/sesh/0bd3604533043a81c2c1d08513848347) talk at MelbDjango (Jan 2018)
 - [Learning Django URL Patterns by Example](https://briefly.brntn.me/2017/10/15/50)
 - [So that's it!](https://twitter.com/sesh/status/916458668522070017)
 
