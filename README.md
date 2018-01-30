@@ -26,7 +26,7 @@ I have a passion for teaching people to code: I've helped run free training cour
 
 ### Recent Posts
 
-- [Django URLs 2.0](https://gist.github.com/sesh/0bd3604533043a81c2c1d08513848347) talk at MelbDjango (Jan 2018)
+- [Django URLs 2.0](https://briefly.brntn.me/2018/1/28/59) talk at MelbDjango (Jan 2018)
 - [Learning Django URL Patterns by Example](https://briefly.brntn.me/2017/10/15/50)
 - [So that's it!](https://twitter.com/sesh/status/916458668522070017)
 
@@ -35,18 +35,18 @@ I have a passion for teaching people to code: I've helped run free training cour
 
 I've worked on some fun open source projects:
 
+- [basehtml][basehtml] - the tiny starting template I use for _every_ web project
 - [piprot][piprot] - allows you to check the requirements defined in your requirements files for freshness
 - [djver][djver] - gives you information about which version of Django is being used based on the static files
-- [basehtml][basehtml] - the tiny starting template I use for _every_ web project
 
 
 And I like building tiny web apps, here a few recent ones:
 
+- [Hacker News 500][hn500] - Indexing all posts on Hacker news that have received more than 500 points since January 2017.
 - [Rating Things][rating-things] - Where I rate anything and everything with emojis
 - [Django URL Conf Helper][urlconf]
 - [Darter(2)][darter] darts scoreboard
 - [Delta][delta] for tracking values with API calls
-- [Hacker News 500][hn500] - Indexing all posts on Hacker news that have received more than 500 points since January 2017.
 - [Spoiler-free TDF highlights][tdf-highlights]
 - [Running Conversion Tables][running-tables]
 
